@@ -8,7 +8,7 @@ description = "General Purpose ETL"
 dynamic = ["version"]
 license = {file = "LICENSE"}
 name = "universal_etl"
-readme = "REDME.md"
+readme = "README.md"
 
 [tool.setuptools.dynamic]
 version = {attr = "universal_etl.__version__"}
